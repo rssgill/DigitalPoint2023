@@ -25,7 +25,7 @@ public class openBrowser
 		//maximize the browser window
 		driver.manage().window().maximize();
 		
-		//driver.close();
+		driver.close();
 		
 		
 
